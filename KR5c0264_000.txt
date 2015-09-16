@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:55:12.684707
+#+TITLE: 鬼穀子天髓靈文
+#+PROPERTY: DZID  DZ0867
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，18—671 二卷 洞神部方法類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
